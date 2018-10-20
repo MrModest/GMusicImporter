@@ -32,7 +32,7 @@ fun getLocalTracksFromDir(musicDir: String): Collection<LocalTrack>{
 
         do {
             print("Continue? [y/n]: ")
-            var answer = readLine()?.toLowerCase()
+            val answer = readLine()?.toLowerCase()
 
             if (answer == "n"){
                 throw Exception("Cancel program")

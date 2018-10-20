@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.bjoernpetersen:gpsoauth:0.3.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/bjoernpetersen/gpsoauth/0.3.2/gpsoauth-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/bjoernpetersen/gpsoauth/0.3.2/gpsoauth-0.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/bjoernpetersen/gpsoauth/0.3.2/gpsoauth-0.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

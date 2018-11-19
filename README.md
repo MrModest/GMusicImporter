@@ -1,6 +1,6 @@
 # GMusicImporter
 
-This app will let you import your local musics to Google Music by artist name and track title. 
+This app will let you import your local music to Google Music by artist name and track title. 
 App don't uploading you music files to Google Music account. It's search your music in Google Music 
 library and add track to generated playlist. After them you can move all tracks from this playlist 
 to whatever you need playlist. It's easy in web version (because have supporting multiselect).

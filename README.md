@@ -7,7 +7,7 @@ to whatever you need playlist. It's easy in web version (because have supporting
 
 For start run app with set your google account email, password and music file directory.
 
-Example: `gmusicimporter -e example@gmail.com -p qwerty123 -m D:\\Music`
+Example: `java gmusicimporter -e example@gmail.com -p qwerty123 -m D:\\Music`
 
 Your music files in directory must be next format: `{Artist}<space>-<space>{Title}` (spaces around `-` is requered!) <br />
 Example: `Avril Lavigne - Take me away`

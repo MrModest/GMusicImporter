@@ -25,3 +25,9 @@ After all you get the password for use with this app. <br/>
 If you want deactivate this password you can just delete it from list above. <br />
 App don't store you password or any another data. <br />
 It use this just for logging in you Google Music account and add music.
+
+# Used libs
+
+ * [gplaymusic](https://github.com/FelixGail/gplaymusic)
+ * [kotlin-argparser](https://github.com/xenomachina/kotlin-argparser)
+ * [gson](https://github.com/google/gson)
